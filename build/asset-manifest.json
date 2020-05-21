@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c8fa545.chunk.css",
+    "main.js": "/static/js/main.ab987e3f.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.d713c854.js",
+    "static/css/2.243bdb33.chunk.css": "/static/css/2.243bdb33.chunk.css",
+    "static/js/2.2dec1757.chunk.js": "/static/js/2.2dec1757.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.a49a0cc5a6fc08a4e1b322d03542c24f.js": "/precache-manifest.a49a0cc5a6fc08a4e1b322d03542c24f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.2dec1757.chunk.js.LICENSE.txt": "/static/js/2.2dec1757.chunk.js.LICENSE.txt",
+    "static/js/main.ab987e3f.chunk.js.LICENSE.txt": "/static/js/main.ab987e3f.chunk.js.LICENSE.txt",
+    "static/media/anime3.png": "/static/media/anime3.bd6820f1.png",
+    "static/media/emilyz.jpg": "/static/media/emilyz.9fcf69e5.jpg",
+    "static/media/nucleo-icons.css": "/static/media/nucleo.f0b489a5.woff",
+    "static/media/react-logo.png": "/static/media/react-logo.586f9f8f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d713c854.js",
+    "static/css/2.243bdb33.chunk.css",
+    "static/js/2.2dec1757.chunk.js",
+    "static/css/main.6c8fa545.chunk.css",
+    "static/js/main.ab987e3f.chunk.js"
+  ]
+}
